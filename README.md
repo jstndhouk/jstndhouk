@@ -1,44 +1,19 @@
-## Hi, I'm Justin
-![](https://raw.githubusercontent.com/rafnixg/Justin/master/Justin_header.jpeg)
-
-![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
-
-```python
-class JustinH:
-
-    def __init__(self):
-        self.username = 'JustinH'
-        self.name = 'Justin Houk'
-        self.web = 'https://github.com/jstndhouk'
-        self.twitter = '@jstndhouk'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Bootstrap', 'Materialize],
-            'backend': [ 'NodeJS],
-            'database': [],
-            'devops': ['GitHub Actions'],
-            'tools': ['GIT', 'GitHub', 'GitLab',],
-            'misc': []
-        }
-        self.architecture = []
-
-    def __str__(self):
-        return self.name
+Hi, I'm Justin Houk! 
 
 
-if __name__ == '__main__':
-    me = JustinH()
+Software Enginner at Georgia Tech Bootcamp
+Seeking a Software Development Position
 
+Twitter: Jstndhouk433 Linkedin: jstndhouk433 GitHub jstndhouk
 
-```
-## Get in touch
+ A little more about me...
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Bootstrap, Materialize],
+  tools: [React, Node],
 
-- Twitter: https://twitter.com/jstndhouk
-- Personal Site: https://jstndhouk.github.io/Professional-Portfolio/
+                      },
+}
+ Say hi, checkout some of my work and feel free to reach out if you have any questions :)
 
-## Latest Posts (Spanish)
-
-
-- [�✈️ Lazy-Layover](https://jstndhouk.github.io/Lazy-Layover/)
-
-
-⭐️ From [justinh](https://github.com/jstndhouk)`
+⭐️ From @jstndhouk
