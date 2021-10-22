@@ -4,9 +4,8 @@
  
 </em></p>
 
-[![Twitter: jstndhouk433](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/jstndhouk)
 [![Linkedin: justin-houk](https://www.linkedin.com/justin-houk)
-[![GitHub: jstndhouk](https://github.com/jstndhouk)
+[![GitHub: jstndhouk](https://www.github.com/jstndhouk)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
