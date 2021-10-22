@@ -4,7 +4,7 @@
  
 </em></p>
 
-[![Linkedin: justin-houk](https://www.linkedin.com/justin-houk)
+[![Linkedin: justin-houk](https://www.linkedin.com/in/justin-houk/)
 [![GitHub: jstndhouk](https://www.github.com/jstndhouk)
 
 
