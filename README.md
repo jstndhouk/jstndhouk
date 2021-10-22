@@ -2,6 +2,7 @@
 <p><em>Software Enginner at Georgia Tech Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  
 </em></p>
+[![Justin's github stats](https://github-readme-stats.vercel.app/api?username=jstndhouk&theme=blue-green)](https://github.com/jstndhouk
 
 [![Linkedin: justin-houk](https://www.linkedin.com/in/justin-houk/)
 [![GitHub: jstndhouk](https://www.github.com/jstndhouk)
