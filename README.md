@@ -1,7 +1,6 @@
 <h2> Hi, I'm Justin Houk! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Enginner at Georgia Tech Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
- <img src='https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47jatos0vhwmglvj05kmse7rx5ootbmr8rveasozrg&rid=giphy.gif&ct=g'>
- 
+<img align="right" width="100" height="100" src="https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47jatos0vhwmglvj05kmse7rx5ootbmr8rveasozrg&rid=giphy.gif&ct=g">
 </em></p>
 ![Justin's github stats](https://github-readme-stats.vercel.app/api?username=jstndhouk&theme=blue-green)
 
