@@ -1,4 +1,4 @@
-<h2> Hi, I'm Justin Houk! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Justin Houk!</h2>
 <p><em>Software Enginner at Georgia Tech Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <img align="right" width="150" height="120" src="https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47jatos0vhwmglvj05kmse7rx5ootbmr8rveasozrg&rid=giphy.gif&ct=g">
   
@@ -10,7 +10,7 @@
 [GitHub: jstndhouk](https://www.github.com/jstndhouk)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const justin = {
