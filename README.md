@@ -1,5 +1,5 @@
 <h2> Hi, I'm Justin Houk!</h2>
-<p><em>Software Enginner at Georgia Tech Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Developer looking for work February 2022!</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <img align="right" width="288" height="240" src="https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47jatos0vhwmglvj05kmse7rx5ootbmr8rveasozrg&rid=giphy.gif&ct=g">
   
 </em></p>
