@@ -7,6 +7,7 @@
 ![Justin's github stats](https://github-readme-stats.vercel.app/api?username=jstndhouk&theme=blue-green)
 
 [Linkedin: justin-houk](https://www.linkedin.com/in/justin-houk/)
+
 [GitHub: jstndhouk](https://www.github.com/jstndhouk)
 
 
