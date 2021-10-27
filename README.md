@@ -6,6 +6,7 @@
 
 ![Justin's github stats](https://github-readme-stats.vercel.app/api?username=jstndhouk&theme=blue-green)
 
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}
 
 ### A little more about me...  
 
