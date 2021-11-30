@@ -13,7 +13,7 @@
 const justin = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, ],
-  tools: [React, Bootstrap, Materialize, Node.js, jquery],
+  tools: [React, Bootstrap, Materialize, Node.js, express.js, express-sessions, SQL, MySQL2, Sequelize, jquery],
   architecture: [],
 
 ```
