@@ -15,6 +15,7 @@ const justin = {
   code: [Javascript, HTML, CSS, ],
   tools: [React, Bootstrap, Materialize, Node.js, express.js, express-sessions, SQL, MySQL2, Sequelize, jquery, Handlebars],
   architecture: [MVC]
+  }
 
 ```
 
