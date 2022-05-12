@@ -14,7 +14,7 @@ const justin = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, React.js],
   tools: [Bootstrap, Materialize, Object-Oriented Programming, IndexDB, Node.js, Express.js, SQL, MySQL2, Sequelize, jquery, MongoDB, Mongoose, Handlebars, GraphQL ],
-  management-tools: [GitLab, Github, Git, npm, VS Code, Heroku, INquier, Lighthouse, Webpack, Workbox]
+  management-tools: [GitLab, Github, Git, npm, VS-Code, Heroku, Inquier, Lighthouse, Webpack, Workbox]
   architecture: [MVC, MERN]
   }
 
